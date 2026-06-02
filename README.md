@@ -11,7 +11,14 @@ My objective is to apply and expand my cybersecurity knowledge through hands-on 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-
+| Interpreting packet captures (PCAPs)         | Home Lab|
+| Identifying suspicious traffic patterns      | Home Lab|
+| Understanding TCP/UDP behavior, ports, and services         | Home Lab|
+| Using tools like Wireshark / tcpdump / Security Onion        | Home Lab|
+| Threat intelligence collection          | <a href="https://github.com/kaspermic/Honeypot-Lab/tree/main">Honeypot Lab</a>|
+| Cloud security          | <a href="https://github.com/kaspermic/Honeypot-Lab/tree/main">Honeypot Lab</a>|
+| Security monitoring & detection          | <a href="https://github.com/kaspermic/Honeypot-Lab/tree/main">Honeypot Lab</a>|
+| Incident analysis          | <a href="https://github.com/kaspermic/Honeypot-Lab/tree/main">Honeypot Lab</a>|
 
 ## Tools
 
@@ -22,13 +29,23 @@ My objective is to apply and expand my cybersecurity knowledge through hands-on 
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<div>
+    
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon_VPC-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<div>
+    
 ## Certifications
 <div>
     <img src="https://images.contentstack.io/v3/assets/blt0803adf2cfcd8dee/blt1029e6f9b821976b/696dfe73f949960008bfa5d5/GFACT.png?width=768&quality=75&format=webp" height="60"/>
@@ -40,4 +57,4 @@ My objective is to apply and expand my cybersecurity knowledge through hands-on 
 
 ## Projects
 - Home Lab
-- HoneyPot
+- <a href="https://github.com/kaspermic/Honeypot-Lab/tree/main">Honeypot Lab</a>
