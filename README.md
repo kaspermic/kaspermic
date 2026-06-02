@@ -5,7 +5,7 @@ I am a cybersecurity student with hands-on experience in labs, threat analysis, 
 
 ## Objective
 
-My objective is to apply and expand my cybersecurity knowledge through hands-on experience, with a focus on defensive security, threat detection, and incident response. I am seeking opportunities in a Security Operations Center (SOC) to further develop my skills and contribute to real-world security operations.
+My objective is to apply and expand my cybersecurity knowledge through hands-on experience in defensive security, threat detection, incident response, and cloud security. I am seeking opportunities across cybersecurity operations and engineering roles where I can strengthen my skills and contribute to protecting systems and responding to real-world threats.
 
 ## Skills
 
