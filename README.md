@@ -11,10 +11,16 @@ My objective is to apply and expand my cybersecurity knowledge through hands-on 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Interpreting packet captures (PCAPs)         | Home Lab|
-| Identifying suspicious traffic patterns      | Home Lab|
-| Understanding TCP/UDP behavior, ports, and services         | Home Lab|
-| Using tools like Wireshark / tcpdump / Splunk        | Home Lab|
+| Interpreting packet captures (PCAPs)         | <a href="https://github.com/kaspermic/SOC-Automation-Home-Lab/tree/main">SOC Automation Home Lab</a>|
+| Identifying suspicious traffic patterns      | <a href="https://github.com/kaspermic/SOC-Automation-Home-Lab/tree/main">SOC Automation Home Lab</a>|
+| Understanding TCP/UDP behavior, ports, and services         | <a href="https://github.com/kaspermic/SOC-Automation-Home-Lab/tree/main">SOC Automation Home Lab</a>|
+| Using tools like Wireshark / tcpdump / Splunk        | <a href="https://github.com/kaspermic/SOC-Automation-Home-Lab/tree/main">SOC Automation Home Lab</a>|
+| Splunk Search and Alert Creation         | <a href="https://github.com/kaspermic/SOC-Automation-Home-Lab/tree/main">SOC Automation Home Lab</a>|
+| Security Alert Automation         | <a href="https://github.com/kaspermic/SOC-Automation-Home-Lab/tree/main">SOC Automation Home Lab</a>|
+| SSH Remote Administration         | <a href="https://github.com/kaspermic/SOC-Automation-Home-Lab/tree/main">SOC Automation Home Lab</a>|
+| RDP Remote Administration         | <a href="https://github.com/kaspermic/SOC-Automation-Home-Lab/tree/main">SOC Automation Home Lab</a>|
+| n8n Workflow Automation        | <a href="https://github.com/kaspermic/SOC-Automation-Home-Lab/tree/main">SOC Automation Home Lab</a>|
+| AI-Assisted Alert Analysis       | <a href="https://github.com/kaspermic/SOC-Automation-Home-Lab/tree/main">SOC Automation Home Lab</a>|
 | Threat intelligence collection          | <a href="https://github.com/kaspermic/Honeypot-Lab/tree/main">Honeypot Lab</a>|
 | Cloud security          | <a href="https://github.com/kaspermic/Honeypot-Lab/tree/main">Honeypot Lab</a>|
 | Security monitoring & detection          | <a href="https://github.com/kaspermic/Honeypot-Lab/tree/main">Honeypot Lab</a>|
