@@ -14,7 +14,7 @@ My objective is to apply and expand my cybersecurity knowledge through hands-on 
 | Interpreting packet captures (PCAPs)         | Home Lab|
 | Identifying suspicious traffic patterns      | Home Lab|
 | Understanding TCP/UDP behavior, ports, and services         | Home Lab|
-| Using tools like Wireshark / tcpdump / Security Onion        | Home Lab|
+| Using tools like Wireshark / tcpdump / Splunk        | Home Lab|
 | Threat intelligence collection          | <a href="https://github.com/kaspermic/Honeypot-Lab/tree/main">Honeypot Lab</a>|
 | Cloud security          | <a href="https://github.com/kaspermic/Honeypot-Lab/tree/main">Honeypot Lab</a>|
 | Security monitoring & detection          | <a href="https://github.com/kaspermic/Honeypot-Lab/tree/main">Honeypot Lab</a>|
