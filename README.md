@@ -63,3 +63,4 @@ My objective is to apply and expand my cybersecurity knowledge through hands-on 
 
 ## Projects
 - <a href="https://github.com/kaspermic/Honeypot-Lab/tree/main">Honeypot Lab</a>
+- <a href="https://github.com/kaspermic/SOC-Automation-Home-Lab/tree/main">SOC Automation Home Lab</a>
