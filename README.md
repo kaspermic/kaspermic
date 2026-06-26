@@ -57,8 +57,8 @@ My objective is to apply and expand my cybersecurity knowledge through hands-on 
     <img src="https://images.contentstack.io/v3/assets/blt0803adf2cfcd8dee/blt1029e6f9b821976b/696dfe73f949960008bfa5d5/GFACT.png?width=768&quality=75&format=webp" height="60"/>
     <img src="https://images.contentstack.io/v3/assets/blt0803adf2cfcd8dee/bltd6df5cecff430fcc/696dfe74c3566f00082d2451/GSEC.png?width=768&quality=75&format=webp" height="60"/>
     <img src="https://images.contentstack.io/v3/assets/blt0803adf2cfcd8dee/bltd6e1fa951793aed0/696dfed43e5ede0008fc93fc/GCIH.png?width=768&quality=75&format=webp" height="60"/>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://www.comptia.org/_next/image/?url=https%3A%2F%2Fimages4.cmp.optimizely.com%2F8623b0fab71111efac96d615e91762a5%3Fwidth%3D300%26height%3D300&w=384&q=90" height="70" />
+    <img src="https://www.comptia.org/_next/image/?url=https%3A%2F%2Fimages4.cmp.optimizely.com%2F893bb620b71111ef888eca5646afc7d8%3Fwidth%3D300%26height%3D300&w=384&q=90" height="70" />
 </div>
 
 ## Projects
