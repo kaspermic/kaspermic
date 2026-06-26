@@ -50,6 +50,8 @@ My objective is to apply and expand my cybersecurity knowledge through hands-on 
 <div>
     <img src="https://img.shields.io/badge/-Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
     <img src="https://img.shields.io/badge/-Amazon_VPC-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon_S3-800080?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+
 <div>
     
 ## Certifications
