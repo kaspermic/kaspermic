@@ -61,6 +61,7 @@ My objective is to apply and expand my cybersecurity knowledge through hands-on 
     <img src="https://images.contentstack.io/v3/assets/blt0803adf2cfcd8dee/bltd6e1fa951793aed0/696dfed43e5ede0008fc93fc/GCIH.png?width=768&quality=75&format=webp" height="70"/>
     <img src="https://www.comptia.org/_next/image/?url=https%3A%2F%2Fimages4.cmp.optimizely.com%2F8623b0fab71111efac96d615e91762a5%3Fwidth%3D300%26height%3D300&w=384&q=90" height="80" />
     <img src="https://www.comptia.org/_next/image/?url=https%3A%2F%2Fimages4.cmp.optimizely.com%2F893bb620b71111ef888eca5646afc7d8%3Fwidth%3D300%26height%3D300&w=384&q=90" height="80" />
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="80" />
 </div>
 
 ## Projects
